@@ -1,0 +1,9 @@
+/Users/blakemorgan/Projects/typesOfaClass2/typesOfaClass2/bin/iPhoneSimulator/Debug/typesOfaClass2.exe
+/Users/blakemorgan/Projects/typesOfaClass2/typesOfaClass2/bin/iPhoneSimulator/Debug/typesOfaClass2.pdb
+/Users/blakemorgan/Projects/typesOfaClass2/typesOfaClass2/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/blakemorgan/Projects/typesOfaClass2/typesOfaClass2/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/blakemorgan/Projects/typesOfaClass2/typesOfaClass2/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/blakemorgan/Projects/typesOfaClass2/typesOfaClass2/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/blakemorgan/Projects/typesOfaClass2/typesOfaClass2/obj/iPhoneSimulator/Debug/typesOfaClass2.csproj.CoreCompileInputs.cache
+/Users/blakemorgan/Projects/typesOfaClass2/typesOfaClass2/obj/iPhoneSimulator/Debug/typesOfaClass2.exe
+/Users/blakemorgan/Projects/typesOfaClass2/typesOfaClass2/obj/iPhoneSimulator/Debug/typesOfaClass2.pdb
